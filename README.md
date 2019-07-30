@@ -1,5 +1,5 @@
 # VXCASE
-Sistema feito de vendas desenvolvido em Laravel 5.8
+Sistema de vendas desenvolvido em Laravel 5.8
 
 ## Pré-requisitos
 - PHP >= 7.1.3
